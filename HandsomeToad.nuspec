@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>HandsomeToad.KVPDeconstruction</id>
+    <version>1.0.0</version>
+    <authors>Peter Sweeney</authors>
+    <owners>Peter Sweeney</owners>
+    <licenseUrl>https://opensource.org/licenses/MIT</licenseUrl>
+    <projectUrl>https://github.com/Sweenpet</projectUrl>
+    <iconUrl>https://raw.githubusercontent.com/Sweenpet/HandsomeToad/master/icon.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Allows once to deconstruct KeyValuePairs into tuples</description>
+    <releaseNotes>First release.</releaseNotes>
+    <copyright>Copyright 2018</copyright>
+    <tags>C#</tags>
+  </metadata>
+  <files>
+    <file src="HandsomeToad\lib\4.6.1\HandsomeToad.dll" target="lib\4.6.1\HandsomeToad.dll"/>
+  </files>
+</package>
