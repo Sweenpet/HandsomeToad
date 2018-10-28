@@ -1,6 +1,0 @@
-C:\Users\Peters PC\Documents\Visual Studio 2017\Projects\HandsomeToad\HandsomeToad\bin\Release\HandsomeToad.dll
-C:\Users\Peters PC\Documents\Visual Studio 2017\Projects\HandsomeToad\HandsomeToad\bin\Release\HandsomeToad.pdb
-C:\Users\Peters PC\Documents\Visual Studio 2017\Projects\HandsomeToad\HandsomeToad\obj\Release\HandsomeToad.csprojResolveAssemblyReference.cache
-C:\Users\Peters PC\Documents\Visual Studio 2017\Projects\HandsomeToad\HandsomeToad\obj\Release\HandsomeToad.csproj.CoreCompileInputs.cache
-C:\Users\Peters PC\Documents\Visual Studio 2017\Projects\HandsomeToad\HandsomeToad\obj\Release\HandsomeToad.dll
-C:\Users\Peters PC\Documents\Visual Studio 2017\Projects\HandsomeToad\HandsomeToad\obj\Release\HandsomeToad.pdb
